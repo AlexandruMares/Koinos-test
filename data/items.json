@@ -1,0 +1,345 @@
+[
+  {
+    "name": "alex test",
+    "category": "aaa",
+    "price": 100000,
+    "id": 1758118288102,
+    "date": "2025-09-17T14:11:28.102Z"
+  },
+  {
+    "id": 1,
+    "name": "Laptop Pro",
+    "category": "Electronics",
+    "price": 2499
+  },
+  {
+    "id": 2,
+    "name": "Noise Cancelling Headphones",
+    "category": "Electronics",
+    "price": 399
+  },
+  {
+    "id": 3,
+    "name": "Ultra-Wide Monitor",
+    "category": "Electronics",
+    "price": 999
+  },
+  {
+    "id": 4,
+    "name": "Ergonomic Chair",
+    "category": "Furniture",
+    "price": 799
+  },
+  {
+    "id": 5,
+    "name": "Standing Desk",
+    "category": "Furniture",
+    "price": 1199
+  },
+  {
+    "id": 6,
+    "name": "Smartphone X",
+    "category": "Electronics",
+    "price": 1299
+  },
+  {
+    "id": 7,
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 199
+  },
+  {
+    "id": 8,
+    "name": "Wireless Mouse",
+    "category": "Electronics",
+    "price": 59
+  },
+  {
+    "id": 9,
+    "name": "Mechanical Keyboard",
+    "category": "Electronics",
+    "price": 149
+  },
+  {
+    "id": 10,
+    "name": "4K Action Camera",
+    "category": "Electronics",
+    "price": 299
+  },
+  {
+    "id": 11,
+    "name": "Leather Sofa",
+    "category": "Furniture",
+    "price": 2499
+  },
+  {
+    "id": 12,
+    "name": "Bookshelf",
+    "category": "Furniture",
+    "price": 349
+  },
+  {
+    "id": 13,
+    "name": "Dining Table",
+    "category": "Furniture",
+    "price": 999
+  },
+  {
+    "id": 14,
+    "name": "Office Desk Lamp",
+    "category": "Furniture",
+    "price": 129
+  },
+  {
+    "id": 15,
+    "name": "Wardrobe",
+    "category": "Furniture",
+    "price": 1599
+  },
+  {
+    "id": 16,
+    "name": "Air Conditioner",
+    "category": "Appliances",
+    "price": 1099
+  },
+  {
+    "id": 17,
+    "name": "Smart Refrigerator",
+    "category": "Appliances",
+    "price": 2499
+  },
+  {
+    "id": 18,
+    "name": "Washing Machine",
+    "category": "Appliances",
+    "price": 899
+  },
+  {
+    "id": 19,
+    "name": "Microwave Oven",
+    "category": "Appliances",
+    "price": 249
+  },
+  {
+    "id": 20,
+    "name": "Dishwasher",
+    "category": "Appliances",
+    "price": 799
+  },
+  {
+    "id": 21,
+    "name": "Fitness Tracker",
+    "category": "Fitness",
+    "price": 199
+  },
+  {
+    "id": 22,
+    "name": "Treadmill",
+    "category": "Fitness",
+    "price": 1499
+  },
+  {
+    "id": 23,
+    "name": "Adjustable Dumbbell Set",
+    "category": "Fitness",
+    "price": 499
+  },
+  {
+    "id": 24,
+    "name": "Yoga Mat",
+    "category": "Fitness",
+    "price": 59
+  },
+  {
+    "id": 25,
+    "name": "Exercise Bike",
+    "category": "Fitness",
+    "price": 899
+  },
+  {
+    "id": 26,
+    "name": "Smartwatch",
+    "category": "Electronics",
+    "price": 349
+  },
+  {
+    "id": 27,
+    "name": "Gaming Console",
+    "category": "Electronics",
+    "price": 599
+  },
+  {
+    "id": 28,
+    "name": "VR Headset",
+    "category": "Electronics",
+    "price": 799
+  },
+  {
+    "id": 29,
+    "name": "Portable Power Bank",
+    "category": "Electronics",
+    "price": 89
+  },
+  {
+    "id": 30,
+    "name": "Drone Pro",
+    "category": "Electronics",
+    "price": 1299
+  },
+  {
+    "id": 31,
+    "name": "Cookware Set",
+    "category": "Appliances",
+    "price": 299
+  },
+  {
+    "id": 32,
+    "name": "Espresso Machine",
+    "category": "Appliances",
+    "price": 499
+  },
+  {
+    "id": 33,
+    "name": "Vacuum Cleaner",
+    "category": "Appliances",
+    "price": 349
+  },
+  {
+    "id": 34,
+    "name": "Electric Kettle",
+    "category": "Appliances",
+    "price": 79
+  },
+  {
+    "id": 35,
+    "name": "Toaster Oven",
+    "category": "Appliances",
+    "price": 159
+  },
+  {
+    "id": 36,
+    "name": "Winter Jacket",
+    "category": "Clothing",
+    "price": 249
+  },
+  {
+    "id": 37,
+    "name": "Running Shoes",
+    "category": "Clothing",
+    "price": 149
+  },
+  {
+    "id": 38,
+    "name": "Formal Suit",
+    "category": "Clothing",
+    "price": 499
+  },
+  {
+    "id": 39,
+    "name": "Casual T-Shirt",
+    "category": "Clothing",
+    "price": 39
+  },
+  {
+    "id": 40,
+    "name": "Denim Jeans",
+    "category": "Clothing",
+    "price": 89
+  },
+  {
+    "id": 41,
+    "name": "Mystery Novel",
+    "category": "Books",
+    "price": 29
+  },
+  {
+    "id": 42,
+    "name": "Science Textbook",
+    "category": "Books",
+    "price": 119
+  },
+  {
+    "id": 43,
+    "name": "Cookbook",
+    "category": "Books",
+    "price": 49
+  },
+  {
+    "id": 44,
+    "name": "Fantasy Trilogy Box Set",
+    "category": "Books",
+    "price": 199
+  },
+  {
+    "id": 45,
+    "name": "Self-Help Guide",
+    "category": "Books",
+    "price": 39
+  },
+  {
+    "id": 46,
+    "name": "Smart Home Hub",
+    "category": "Electronics",
+    "price": 199
+  },
+  {
+    "id": 47,
+    "name": "Security Camera System",
+    "category": "Electronics",
+    "price": 599
+  },
+  {
+    "id": 48,
+    "name": "Robot Vacuum",
+    "category": "Appliances",
+    "price": 699
+  },
+  {
+    "id": 49,
+    "name": "Outdoor Grill",
+    "category": "Appliances",
+    "price": 499
+  },
+  {
+    "id": 50,
+    "name": "Patio Furniture Set",
+    "category": "Furniture",
+    "price": 1599
+  },
+  {
+    "id": 51,
+    "name": "Mountain Bike",
+    "category": "Fitness",
+    "price": 1299
+  },
+  {
+    "id": 52,
+    "name": "Camping Tent",
+    "category": "Outdoors",
+    "price": 399
+  },
+  {
+    "id": 53,
+    "name": "Hiking Backpack",
+    "category": "Outdoors",
+    "price": 199
+  },
+  {
+    "id": 54,
+    "name": "Sleeping Bag",
+    "category": "Outdoors",
+    "price": 149
+  },
+  {
+    "id": 55,
+    "name": "Portable Cooler",
+    "category": "Outdoors",
+    "price": 99
+  },
+  {
+    "name": "Alex mares",
+    "category": "Test",
+    "price": 180000,
+    "id": 1758116750984
+  }
+]
